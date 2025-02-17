@@ -1,2 +1,2 @@
 # Hand_Written_Recognition_of_Digit_9_Project
-Developed a CNN model using TensorFlow &amp; Keras to identify digit ‘9’ from MNIST. Integrated OpenCV for preprocessing and Tkinter for real-time prediction, ensuring accurate single-digit classification with error detection.
+Developed a CNN model using Python, TensorFlow, and Keras to identify digit ‘9’ from MNIST. Designed the architecture, used OpenCV for preprocessing, and trained for accurate feature extraction. Built a Tkinter-based real-time interface with error detection for precise classification. Demonstrated expertise in deep learning, image processing, and model deployment.
